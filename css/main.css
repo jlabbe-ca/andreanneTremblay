@@ -1,0 +1,14 @@
+body {
+	font-family: 'Urbanist', sans-serif;
+	margin-top: 60px;
+}
+.nav-link {
+	font-weight: 900;
+}
+.row img {
+	max-width: 100%;
+}
+.serif {
+	font-family: 'Cinzel Decorative', cursive;
+	font-weight: bold;
+}
